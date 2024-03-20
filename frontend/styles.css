@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url(background.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+input[type="number"] {
+    width: 50px;
+    padding: 5px;
+    margin: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
